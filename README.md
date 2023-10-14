@@ -60,7 +60,7 @@ Thank you for visiting my GitHub profile! Let's connect, collaborate, and make t
     <a href="#">
       <img
         align="center"
-        src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,expressjs,mongodb,bootstrap,vscode,git,photoshop"
+        src="https://skillicons.dev/icons?i=html,css,scss,js,ts,angular,react,nodejs,expressjs,mongodb,bootstrap,jquery,visualstudio,vscode,vs,atom,git,github,postman,photoshop"
       />
     </a>
   </p>
