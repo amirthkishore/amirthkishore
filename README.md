@@ -14,6 +14,7 @@
 <br>
 
 🌱 I’m currently learning/working on Node JS, Express JS & MongoDb.
+
 <!--💼 My Work
 
 I love to work on a wide range of projects, from open-source contributions to personal projects. Here are a few of my most noteworthy repositories:
@@ -26,7 +27,9 @@ You can explore more of my work on my GitHub Repositories.-->
 
 <br>
 
-🚀 Skills
+
+<h3 align="left">🚀 Skills:</h3>
+
 
 Here are some of the skills and technologies I'm proficient in:
 
