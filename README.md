@@ -4,9 +4,9 @@
 
 <br>
 
-👋 Hello,
+<h1 align="center">Hi 👋, I'm Amirth Kishore</h1>
+<h3 align="center">A passionate Software Developer with a love for coding, design, and all things tech.</h3>
 
-I'm Kishore, a passionate software developer with a love for coding, design, and all things tech.
 
 🌱 I’m currently learning/working on Node JS, Express JS & MongoDb.
 <!--💼 My Work
