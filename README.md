@@ -30,7 +30,6 @@ You can explore more of my work on my GitHub Repositories.-->
 
 <h3 align="left">🚀 Skills:</h3>
 
-
 Here are some of the skills and technologies I'm proficient in:
 
     Programming languages: JavaScript, TypeScript
@@ -40,7 +39,7 @@ Here are some of the skills and technologies I'm proficient in:
 
 <br>
 
-📫 How to Reach Me
+<h3 align="left">📫 How to Reach Me:</h3>
 
     LinkedIn: Amirth kishore
     Email: amirthkishore9500@gmail.com
