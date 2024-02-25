@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Amirth Kishore</h1>
+<h1 align="center">Hi 👋, I'm Kishore</h1>
 <h3 align="center">A passionate Software Developer with a love for coding, design, and all things tech.</h3>
 
 
