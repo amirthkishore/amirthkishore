@@ -6,6 +6,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirthkishore&label=Profile%20views&color=0e75b6&style=flat" alt="amirthkishore" /> </p>
 
 <h3>Hi 👋, I'm Kishore </h3>
