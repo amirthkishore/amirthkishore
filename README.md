@@ -1,7 +1,7 @@
 <img width="100%" style="transform: rotate(3.142rad);" src="./asset/banner-top.svg">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=white&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Amirth+Kishore;I'm+from+India🌏;I'm+a+MERN,+MEAN+Stack+Developer;Be+Welcome!+❤️❤️)
-
+ 
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
