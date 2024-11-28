@@ -34,7 +34,7 @@ You can explore more of my work on my GitHub Repositories.-->
 
 Here are some of the skills and technologies I'm proficient in:
 
-    Programming languages: JavaScript, TypeScript
+    Programming languages: JavaScript, TypeScript, C#
     Web Development: HTML, CSS, JavaScript & TypeScript etc.
     Frameworks and Libraries: Angular, React JS, Bootstrap, SCSS, jQuery etc.
     Tools and Platforms: Visual Studio, Visual Studio Code, GitHub, Sublime, PostMan etc.
