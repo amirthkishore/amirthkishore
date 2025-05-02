@@ -15,7 +15,7 @@
 
 <br>
 
-🌱 I’m currently learning/working on Node JS, Express JS & MongoDb.
+🌱 I’m currently learning Flutter.
 
 <!--💼 My Work
 
@@ -35,8 +35,10 @@ You can explore more of my work on my GitHub Repositories.-->
 Here are some of the skills and technologies I'm proficient in:
 
     Programming languages: JavaScript, TypeScript, C#
-    Web Development: HTML, CSS, JavaScript & TypeScript etc.
-    Frameworks and Libraries: Angular, React JS, Bootstrap, SCSS, jQuery etc.
+    Front-End Development: React js, Angular & Next js
+    Back-End Development: Node JS & Express JS
+    Database: MongoDb
+    Frameworks and Libraries: Bootstrap, SCSS, jQuery etc.
     Tools and Platforms: Visual Studio, Visual Studio Code, GitHub, Sublime, PostMan etc.
 
 <br>
@@ -89,7 +91,7 @@ This repository and its contents are open-source, released under the MIT License
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirthkishore&show_icons=true&locale=en&theme=tokyonight" alt="AmirthKishore" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirthkishore&&theme=tokyonight" alt="AmirthKishore" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirthkishore&theme=tokyonight" alt="AmirthKishore" /></p> -->
 
 </div> 
 
