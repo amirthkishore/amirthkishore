@@ -85,7 +85,13 @@ This repository and its contents are open-source, released under the MIT License
 
 <br>
 
+<h3 align="left">Support & sponsors:</h3>
+
+<a href="https://www.buymeacoffee.com/amirthkishore" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <div>
+
+<br>
     
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirthkishore&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AmirthKishore" /></p>
 
